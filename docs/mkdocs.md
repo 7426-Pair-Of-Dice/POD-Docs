@@ -2,6 +2,7 @@
 
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
+* `mkdocs gh-deploy` - Deploys the latest BUILT version of the site.
 * `mkdocs -h` - Print help message and exit.
 
 ## Project layout

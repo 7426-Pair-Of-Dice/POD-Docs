@@ -8,6 +8,8 @@ nav:
     - Branch Management (Terminal): git/terminal.md
     - Contribution Rules: git/rules.md
   - Helpful Resources: resources.md
+  - B-line: 
+    - Introduction to B-Line: b-line/introduction.md
 theme:
   name: mkdocs
   locale: en

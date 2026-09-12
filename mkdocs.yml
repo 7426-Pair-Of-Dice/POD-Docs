@@ -2,14 +2,22 @@ site_name: Pair of Dice Docs
 nav:
   - Home: index.md
   - Getting Started: starting.md
+  - Repositories: repo.md
   - Git Control System:
     - Branches: git/branches.md
     - Branch Management (Source Control Extension): git/extension.md
     - Branch Management (Terminal): git/terminal.md
     - Contribution Rules: git/rules.md
   - Helpful Resources: resources.md
-  - B-line: 
-    - Introduction to B-Line: b-line/introduction.md
+  - Motor Controls: 
+    - Introduction to Motor Controls: motor-controls/introduction.md
+    - Pheonix Tuner: motor-controls/phoenix.md
+    - Rev Hardware: motor-controls/rev-hardware.md
+  - Autos: 
+    - Introduction to Autos: Autos/introduction.md
+    - Path Planner: Autos/path-planner.md
+    - B-line: Autos/b-line.md
+
 theme:
   name: mkdocs
   locale: en

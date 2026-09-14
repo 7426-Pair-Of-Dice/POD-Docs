@@ -2,17 +2,18 @@ site_name: Pair of Dice Docs
 nav:
   - Home: index.md
   - Getting Started: starting.md
-  - Repositories: repo.md
   - Git Control System:
     - Branches: git/branches.md
     - Branch Management (Source Control Extension): git/extension.md
     - Branch Management (Terminal): git/terminal.md
     - Contribution Rules: git/rules.md
+    - Repositories: git/repo.md
   - Helpful Resources: resources.md
   - Motor Controls: 
     - Introduction to Motor Controls: motor-controls/introduction.md
-    - Pheonix Tuner: motor-controls/phoenix.md
     - Rev Hardware: motor-controls/rev-hardware.md
+    - CTRE: motor-controls/CTRE.md
+    - Using the Swerve Project Generator: motor-controls/swerve-project.md
   - Autos: 
     - Introduction to Autos: Autos/introduction.md
     - Path Planner: Autos/path-planner.md
@@ -22,3 +23,6 @@ theme:
   name: mkdocs
   locale: en
   user_color_mode_toggle: true
+
+markdown_extensions:
+  - attr_list

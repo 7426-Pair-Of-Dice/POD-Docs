@@ -1,4 +1,4 @@
-# Introduction to motor controls:
+# Introduction to Motor Controllers:
 
 As in the name, motor controllers allow us to control the motors. SparkMaxs (REV Hardware) and TalonFx (CTRE) are the 2 main types of motor controllers. Most CTRE motors has the motor controllers built into the motors, while for REV its separate. To configure motors for CTRE you would use Phoenix Tuner, while for REV you would use REV Hardware Client.
 

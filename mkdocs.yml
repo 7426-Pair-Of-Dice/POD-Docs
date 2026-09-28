@@ -12,7 +12,9 @@ nav:
   - Motor Controls: 
     - Introduction to Motor Controls: motor-controls/introduction.md
     - Rev Hardware: motor-controls/rev-hardware.md
+    - Rev Hardware Client 2: motor-controls/rev-hardware-client.md
     - CTRE: motor-controls/CTRE.md
+    - Phoenix Tuner X: motor-controls/phoenix-tuner.md
     - Using the Swerve Project Generator: motor-controls/swerve-project.md
   - Autos: 
     - Introduction to Autos: Autos/introduction.md

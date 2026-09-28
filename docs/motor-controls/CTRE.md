@@ -6,6 +6,6 @@ Cross The Road Electronics also known as CTRE, sells many important components o
 
 To check the motor controllers themselves on Rev, you'd have to manually connect to them, however some CTRE motors have built in motor controllers such as the Kraken, which allows us to connect to it wirelessly.
 
-## Phoenix Tuner
+![kraken motor](../img/motor-control-img/kraken.png){: style="width:300px; height:250px;" }
 
-[Next](swerve-project.md)
+[Next](phoenix-tuner.md)
